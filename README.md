@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Hackorbit's** · Team ID `VTU-QFF-HC-0193` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Hackorbit's)
+[⬆ Back to Top](#hackorbits)
 
 </div>
